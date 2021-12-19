@@ -1,6 +1,6 @@
 # Tugas-Akhir-Data-Mining---Analisis-Tweet-Gempa
 
-Maaf Pak, karena besar file data .csv terlalu besar untuk diupload pada GitHub ini maka import data awal harus load dari file csv lokal.
+Maaf Pak, karena besar file data .csv terlalu besar (205 MB) untuk diupload pada GitHub ini maka import data awal harus load dari file csv lokal. Sekali lagi mohon maaf pak
 
 File .csv dapat didownload pada pranala <a href="https://drive.google.com/file/d/10r2UOAKxDRkL4Ak95tCdBn2I2ZvsMNdC/view?usp=sharing" target="_blank">berikut</a>
 
